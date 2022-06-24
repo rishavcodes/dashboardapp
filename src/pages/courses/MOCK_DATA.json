@@ -1,0 +1,7 @@
+[{"Course_ID":"1","Semester":4,"Course_Name":"DBMS","Credits":"4","Faculty_Name":"DR Swati"},
+{"Course_ID":"2","Semester":4,"Course_Name":"ADA","Credits":"4","Faculty_Name":"Ashwani Kumar"},
+{"Course_ID":"3","Semester":4,"Course_Name":"COA","Credits":"4","Faculty_Name":"Pallavi Pandey"},
+{"Course_ID":"4","Semester":4,"Course_Name":"FOM","Credits":"4","Faculty_Name":"Hina Arora"},
+{"Course_ID":"5","Semester":4,"Course_Name":"DBMS Lab","Credits":"1","Faculty_Name":"DR Swati"},
+{"Course_ID":"6","Semester":4,"Course_Name":"ADA Lab","Credits":"1","Faculty_Name":"Ashwani Kumar"},
+{"Course_ID":"7","Semester":4,"Course_Name":"COA Lab","Credits":"1","Faculty_Name":"Pallavi Pandey"}]

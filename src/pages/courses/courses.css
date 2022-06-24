@@ -1,0 +1,14 @@
+.courseList{
+    border: 2px solid;
+    border-radius: 10px;
+    margin-left: 40px;
+    margin-top: 30px;
+    margin-bottom: 110px;
+}
+.listItem{
+    border: 1px solid;
+    border-radius: 5px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}

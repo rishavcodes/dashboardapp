@@ -1,0 +1,70 @@
+.studentinfotitle{
+    position: relative;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 30px;
+    top: 20px;
+    border: 2px solid;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.maincard{
+    width: 1250px;
+    height: 500px;
+    margin-top: 55px;
+    display: flex;
+    position: relative;
+    left: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: black;
+}
+.profileLeft{
+    width: 350px;
+    padding: 30px;
+    border: 2px solid;
+    border-radius: 10px;
+    margin: 30px;
+}
+.profileImg{
+    width: 150px;
+    height: 150px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.leftInfoText{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    padding: 3px;
+}
+.profileRight{
+    width: 700px;
+    font-size: 20px;
+    display: flex;
+    padding-top: 30px;
+    margin: 30px;
+    padding-left: 50px;
+    padding-right: 60px;
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+.rightInfoTextQue{
+    padding-bottom: 20px;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.rightInfoTexta{
+    padding-left: 150px;
+}
+.rightInfoTextAns{
+    padding-bottom: 20px;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
