@@ -1,4 +1,6 @@
 import React from 'react';
+import data from "./fees.json";
+import "./fees.css";
 
 function Fees() {
   return (
